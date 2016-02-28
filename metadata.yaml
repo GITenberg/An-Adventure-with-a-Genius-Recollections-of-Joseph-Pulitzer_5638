@@ -1,0 +1,22 @@
+_repo: An-Adventure-with-a-Genius-Recollections-of-Joseph-Pulitzer_5638
+creator:
+  author:
+    agent_name: Ireland, Alleyne
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '1824'
+    url: http://www.gutenberg.org/2009/agents/1824
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5638'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Pulitzer, Joseph, 1847-1911'
+title: 'An Adventure with a Genius: Recollections of Joseph Pulitzer'
+url: http://www.gutenberg.org/ebooks/5638
